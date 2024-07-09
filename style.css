@@ -1,0 +1,48 @@
+.img1{
+    background-image: url(./media/bg-1.jpg);
+    background-repeat:none;
+    background-position: fixed;
+}
+
+.im1{
+    margin-bottom: 75px;
+}
+
+.cal{
+    color: yellow;
+    font-size: 60px;
+}
+
+
+
+.cast2{
+    background-color: #1b1540;
+}
+
+.img2{
+    background-image: url(./media/bg-2.jpg);
+    background-repeat:none;
+    background-position: fixed;
+    height: 1000px;
+}
+
+.cast3{
+    background-color: #140925;
+}
+
+.tx2{
+    color: yellow;
+}
+
+.m{
+    margin-top: 200px;
+}
+
+.img3{
+    background-image: url(./media/bg-3.jpg);
+}
+
+.marco{
+    width: 300px;
+
+}
